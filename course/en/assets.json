@@ -1,0 +1,112 @@
+{
+  "60fd06ceab1d831c6a843f3240acc9384b6c4193.png": {
+    "title": "Video1_s6_img1.png",
+    "description": "Speaker",
+    "tags": []
+  },
+  "f0cc8945039863b1c06d1e17185c078e9856861d.docx": {
+    "title": "GIZ Video 1 - Practical Example: Use of Open Voice Data in the Makerere AI Research Lab.docx",
+    "description": "Practical Example: Use of Open Voice Data in the Makerere AI Research Lab",
+    "tags": [
+      {
+        "title": "Practical example",
+        "_id": "5f528fae350c702054504c59"
+      }
+    ]
+  },
+  "421664e92dbf8a941ed8f23ef0464a68d8d46599.docx": {
+    "title": "GIZ Video 1 - Voice recognition technology revolutionizing Human-Machine Interaction.docx",
+    "description": "Voice Technology",
+    "tags": [
+      {
+        "title": "Voice Technology",
+        "_id": "5f5290db350c702054504c65"
+      }
+    ]
+  },
+  "52ab98ab967514fb901a70a81f74461a09d7b317.png": {
+    "title": "microphone.png",
+    "description": "microphone",
+    "tags": [
+      {
+        "title": "microphone",
+        "_id": "5f5ce0c444fb98104493a2d7"
+      }
+    ]
+  },
+  "b3b19e1150f547ac281d775024a24b649e6643f5.png": {
+    "title": "vlcsnap-2020-09-23-09h04m59s323.png",
+    "description": "video 1 poster",
+    "tags": [
+      {
+        "title": "video1poster",
+        "_id": "5f6ae6312a92e31381df2df3"
+      }
+    ]
+  },
+  "73473e25427d4d7e6e07da858781adac4646096f.png": {
+    "title": "vlcsnap-2020-09-23-09h12m02s887.png",
+    "description": "video2poster",
+    "tags": []
+  },
+  "0902d408b2ab251c68fb52ffa70370686c0d071b.png": {
+    "title": "vlcsnap-2020-09-23-09h16m18s531.png",
+    "description": "video3poster",
+    "tags": []
+  },
+  "0b744d6298d2a490c1399645ee9f34b577bd6004.png": {
+    "title": "vlcsnap-2020-09-23-09h17m42s460.png",
+    "description": "video4poster",
+    "tags": []
+  },
+  "cb3d4f08b7bf52e6a1b66064c0025c70aa967292.png": {
+    "title": "vlcsnap-2020-09-23-09h18m26s926.png",
+    "description": "video5poster",
+    "tags": []
+  },
+  "f7e700fd3515c296496e5b49f5d33560b6a1e346.png": {
+    "title": "vlcsnap-2020-09-23-09h19m12s421.png",
+    "description": "video6poster",
+    "tags": []
+  },
+  "6c03f8d76c7dab5ab5645053e3d63c9d2ea28913.png": {
+    "title": "vlcsnap-2020-09-23-09h19m55s140.png",
+    "description": "video7poster",
+    "tags": []
+  },
+  "3e8c5255b02ecbcc1c1f92b22e6944c74c13445e.mp4": {
+    "title": "Mozilla_Common_voice_Platform_1.mp4",
+    "description": "Mozilla Common Voice Platform Video 1",
+    "tags": []
+  },
+  "13c273b6b7ff94849c57c3eb8408e9f2db88b8c2.mp4": {
+    "title": "Mozilla_Common_voice_Platform_2.mp4",
+    "description": "Mozilla Common Voice Platform Video 2",
+    "tags": []
+  },
+  "040f3719ec54686b4643119f2cd4ae16615560f7.mp4": {
+    "title": "Mozilla_Common_voice_Platform_3.mp4",
+    "description": "Mozilla Common Voice Platform Video 3",
+    "tags": []
+  },
+  "2b4808cc4b5321345664ad012a70859e55c8589b.mp4": {
+    "title": "Mozilla_Common_voice_Platform_4.mp4",
+    "description": "Mozilla Common Voice Platform Video 4",
+    "tags": []
+  },
+  "99e53d29a2a1af0084d190cd41ec096dd8f5c4f2.mp4": {
+    "title": "Mozilla_Common_voice_Platform_5.mp4",
+    "description": "Mozilla Common Voice Platform Video 5",
+    "tags": []
+  },
+  "1e9efe7afe5f0e6c71f019a5b7e8c7e2a69a215c.mp4": {
+    "title": "Mozilla_Common_voice_Platform_6.mp4",
+    "description": "Mozilla Common Voice Platform Video 7",
+    "tags": []
+  },
+  "b03f792d2272db9ec7c94d3fdada1eda9d73dcc1.mp4": {
+    "title": "Mozilla_Common_voice_Platform_7.mp4",
+    "description": "Mozilla Common Voice Platform Video 7",
+    "tags": []
+  }
+}
